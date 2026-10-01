@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 339"
+  short_description: "未来圣物：上半保留原照，下半把主体收成金属蚀刻般的未来浅浮雕圣物"
+  default_prompt: "Use $xxd-panel-339 to transform my photograph following the complete canonical source brief."
