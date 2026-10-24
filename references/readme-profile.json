@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 339｜Future Relic: keeps the photo and draws out its deeper character, relationships and rhythm as one small worn medal in low relief, as if found by a future archaeologist — ancient sacred order and precise engineering merge into a single ornament language, with etched-metal and medallic surfaces, exact but warm lines, signs of handwork and time wear, a centred yet not rigidly symmetrical weight in calm whitespace, deep blues, aged metals and warm mineral tones drawn from the photo, and only faint inscription-like text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-339 or asks for a future relic, ancient-future medal, bas-relief emblem or sacred engineering symbol from a photo.",
+  "short_description": "未来圣物：把照片的气质收成一枚被时间磨过、古老秩序与精密制造合一的浅浮雕纪念章",
+  "zh-CN": {
+    "name": "未来圣物",
+    "tagline": "把照片的气质收成一枚被时间磨损过的未来浅浮雕纪念章。",
+    "look": "下半不照抄照片，而是把主体的气质、关系和节奏提炼成一枚小小的器物：像纪念章、圣牌或古代浮雕，又带着精密制造的结构。古老的神圣秩序和机械工程变成同一种纹样，线条精确却不冰冷，表面有金属蚀刻、人工痕迹和时间磨损。主体立在中心、有重量，但会在秩序里留一点自然生长的变化，四周是安静的留白。颜色从照片取来，往深邃蓝、旧金属和温暖矿物色收，文字只是几道像铭文或档案记录的痕迹。",
+    "traits": [
+      "未来遗物",
+      "浅浮雕",
+      "金属蚀刻",
+      "古老未来",
+      "中心秩序"
+    ],
+    "good": [
+      "有庄重感或仪式感的人物：侧脸肖像、闭眼、双手合拢、站姿挺拔",
+      "形态完整、有象征意味的对象：一只猫头鹰、一枚贝壳、一棵孤树、一座塔",
+      "想做成纪念章、收藏徽记或封面中心图的照片"
+    ],
+    "poor": [
+      "需要保留场景、多人关系或现实细节的照片，比如旅行合影、街拍全景",
+      "零件繁多的机器、电路板等，容易变成机械堆砌",
+      "想要霓虹赛博朋克、游戏图标、光滑塑料或扁平矢量效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Future Relic",
+    "tagline": "Draws the character of your photo into one small low-relief medal from the future, worn by time.",
+    "look": "The design does not copy the photo; it draws out the subject's character, relationships and rhythm into one small object, like a medal, devotional plaque or ancient relief with the structure of precision manufacturing. Old sacred order and mechanical engineering become one ornament, with lines that are exact but not cold and a surface of etched metal, handwork marks and time wear. The subject stands centred with real weight, yet keeps a little natural, grown variation within the order, surrounded by quiet empty space. Colours come from the photo and settle into deep blue, aged metal and warm mineral tones, and text is only a few traces like an inscription or archive record.",
+    "traits": [
+      "Future relic",
+      "Low relief",
+      "Etched metal",
+      "Ancient future",
+      "Central order"
+    ],
+    "good": [
+      "People with a solemn or ceremonial air: a profile portrait, closed eyes, hands joined, an upright stance",
+      "Whole, symbolic subjects: an owl, a seashell, a lone tree, a tower",
+      "Photos you want as a commemorative medal, collector's emblem or central cover image"
+    ],
+    "poor": [
+      "Photos where the scene, group relationships or real detail must stay, such as travel group shots or wide street photos",
+      "Part-heavy machines and circuit boards, which tend to become a pile of hardware",
+      "Requests for neon cyberpunk, game icons, glossy plastic or flat vector art"
+    ]
+  },
+  "ja": {
+    "name": "未来の聖遺物",
+    "tagline": "写真の気配を、時間にすり減った未来の浅浮き彫りの記念メダルにまとめます。",
+    "look": "写真をなぞらず、主役の気配、関係、リズムを一つの小さな器物に凝縮します。記念メダル、聖牌、古代のレリーフのようでいて、精密な製造の構造も備えています。古い神聖な秩序と機械工学が同じ一つの文様になり、線は正確でも冷たくなく、表面には金属のエッチング、手仕事の跡、時間による摩耗があります。主役は中央に重みをもって立ちながら、秩序の中に自然に育ったような揺らぎを少し残し、周りには静かな余白があります。色は写真から取り、深い青、古びた金属、温かな鉱物の色にまとまり、文字は銘文や記録のような痕跡がわずかにあるだけです。",
+    "traits": [
+      "未来の遺物",
+      "浅浮き彫り",
+      "金属エッチング",
+      "古代と未来",
+      "中心の秩序"
+    ],
+    "good": [
+      "厳かさや儀式めいた雰囲気のある人物：横顔の肖像、閉じた目、合わせた両手、まっすぐな立ち姿",
+      "形がまとまり象徴性のある対象：フクロウ、貝殻、一本の木、塔",
+      "記念メダル、コレクションの紋章、表紙の中央の絵にしたい写真"
+    ],
+    "poor": [
+      "場面、複数人の関係、現実の細部を残したい写真：旅行の集合写真、街の全景スナップなど",
+      "部品の多い機械や回路基板（機械の寄せ集めになりがちです）",
+      "ネオンのサイバーパンク、ゲームアイコン、つるっとしたプラスチック、フラットなベクターを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "미래 성물",
+    "tagline": "사진의 기운을 시간에 닳은 미래의 얕은 부조 기념 메달 하나로 담아냅니다.",
+    "look": "사진을 그대로 옮기지 않고, 주인공의 기운, 관계, 리듬을 작은 기물 하나로 끌어냅니다. 기념 메달, 성패, 고대 부조 같으면서도 정밀 제조의 구조를 지닙니다. 오래된 신성한 질서와 기계 공학이 하나의 문양이 되고, 선은 정확하되 차갑지 않으며 표면에는 금속 에칭, 손작업 흔적, 시간의 마모가 있습니다. 주인공은 가운데에서 무게 있게 서 있지만 질서 속에 자연스럽게 자란 듯한 변화를 조금 남기고, 주변은 고요한 여백입니다. 색은 사진에서 가져와 깊은 파랑, 오래된 금속, 따뜻한 광물색으로 모이고, 글자는 명문이나 기록 같은 흔적 몇 줄뿐입니다.",
+    "traits": [
+      "미래 유물",
+      "얕은 부조",
+      "금속 에칭",
+      "고대와 미래",
+      "중심 질서"
+    ],
+    "good": [
+      "장엄하거나 의식적인 분위기의 인물: 옆얼굴 초상, 감은 눈, 모은 두 손, 곧은 선 자세",
+      "형태가 온전하고 상징성이 있는 대상: 부엉이, 조개껍데기, 홀로 선 나무, 탑",
+      "기념 메달, 수집용 휘장, 표지 중앙 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "장면, 여러 사람의 관계, 현실 세부를 살려야 하는 사진: 여행 단체 사진, 거리 전경 스냅 등",
+      "부품이 많은 기계나 회로 기판(기계 더미가 되기 쉽습니다)",
+      "네온 사이버펑크, 게임 아이콘, 매끈한 플라스틱, 플랫 벡터를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أثر المستقبل",
+    "tagline": "يستخلص روح صورتك في ميدالية صغيرة بنقش بارز خفيف من المستقبل، أبلاها الزمن.",
+    "look": "لا ينسخ التصميم الصورة، بل يستخلص طبع العنصر وعلاقاته وإيقاعه في قطعة صغيرة واحدة، تشبه ميدالية أو لوحاً تعبّدياً أو نقشاً بارزاً قديماً، ولها في الوقت نفسه بنية التصنيع الدقيق. يصير النظام المقدّس القديم والهندسة الميكانيكية زخرفة واحدة، بخطوط دقيقة غير باردة وسطح فيه حفر معدني وآثار عمل يدوي وتآكل الزمن. يقف العنصر في الوسط بثقل واضح، لكنه يحتفظ ضمن هذا النظام بشيء من التنوّع الطبيعي النامي، ويحيط به فراغ هادئ. تُؤخذ الألوان من الصورة وتميل إلى الأزرق العميق والمعادن القديمة والألوان المعدنية الترابية الدافئة، ولا يظهر من النص إلا آثار قليلة تشبه نقشاً أو سجلاً أرشيفياً.",
+    "traits": [
+      "أثر من المستقبل",
+      "نقش بارز خفيف",
+      "معدن محفور",
+      "قديم ومستقبلي",
+      "نظام مركزي"
+    ],
+    "good": [
+      "أشخاص فيهم مهابة أو طابع طقسي: صورة جانبية للوجه، عينان مغمضتان، يدان مضمومتان، وقفة منتصبة",
+      "عناصر مكتملة الشكل ذات دلالة رمزية: بومة، صدفة، شجرة منفردة، برج",
+      "صور تريدها ميدالية تذكارية أو شعار مقتنيات أو صورة مركزية لغلاف"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها المشهد أو علاقات المجموعة أو التفاصيل الواقعية، مثل صور السفر الجماعية ولقطات الشوارع الواسعة",
+      "آلات كثيرة القطع ولوحات دوائر، تتحول غالباً إلى كومة من العتاد",
+      "طلب سايبربانك نيون أو أيقونات ألعاب أو بلاستيك لامع أو رسوم متجهية مسطّحة"
+    ]
+  }
+}

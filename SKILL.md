@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-339
-description: "Create XXD Panel 339 raster artwork: a faithful photograph paired with one future relic in medallic bas-relief, ancient order fused with precise worn metal. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-339 or asks for this 未来圣物 style."
+description: "XXD Panel 339｜Future Relic: keeps the photo and draws out its deeper character, relationships and rhythm as one small worn medal in low relief, as if found by a future archaeologist — ancient sacred order and precise engineering merge into a single ornament language, with etched-metal and medallic surfaces, exact but warm lines, signs of handwork and time wear, a centred yet not rigidly symmetrical weight in calm whitespace, deep blues, aged metals and warm mineral tones drawn from the photo, and only faint inscription-like text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-339 or asks for a future relic, ancient-future medal, bas-relief emblem or sacred engineering symbol from a photo."
 ---
 
 # XXD Panel 339
